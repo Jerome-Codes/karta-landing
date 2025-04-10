@@ -35,10 +35,10 @@ export default function Home() {
       <section style={{ padding: "3rem 0", textAlign: "center" }}>
         <h2 style={{ fontSize: "2rem", fontWeight: "bold", marginBottom: "2rem" }}>Who We Are</h2>
         <div style={{ display: "flex", flexWrap: "wrap", justifyContent: "center", gap: "2rem" }}>
-          <div style={cardStyle}>👨‍💼<br />Managing Director – Drives the vision and strategy</div>
-          <div style={cardStyle}>💻<br />IT Director: Jerome – Oversees web and app development</div>
-          <div style={cardStyle}>🗂️<br />Secretary – Coordinates meetings, communications, and reports</div>
-          <div style={cardStyle}>💰<br />Finance Officer – Manages accounts, pricing model, and reporting</div>
+          <div style={cardStyle}>👨‍💼<br />Managing Director Tom Fenech– Drives the vision and strategy</div>
+          <div style={cardStyle}>💻<br />IT Director: Jerome Schembri Young– Oversees web and app development</div>
+          <div style={cardStyle}>🗂️<br />Secretary Nick Rizzo– Coordinates meetings, communications, and reports</div>
+          <div style={cardStyle}>💰<br />Finance Officer Rudy Vukovic– Manages accounts, pricing model, and reporting</div>
         </div>
       </section>
 
